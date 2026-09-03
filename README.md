@@ -1,6 +1,6 @@
 # 📚 Guia Prático de Git e GitHub
 
-Este repositório foi criado com o objetivo de explicar, de forma simples e prática, os principais conceitos e comandos utilizados no **Git** e no **GitHub**.
+Este repositório foi criado com o objetivo de explicar, de forma simples e prática, os principais conceitos e comandos utilizados no **Git** e no **GitHub**, servindo também como material de aprendizado e consulta. Além disso, foi utilizado com auxílio do **ChatGPT** para realizar testes de conexão e integração entre o **GitHub** e o **VS Code**.
 
 A ideia é servir como material de consulta para estudantes e desenvolvedores que estão começando a trabalhar com controle de versão.
 
@@ -951,5 +951,3 @@ git merge
 ```
 
 Depois, conforme o projeto evoluir, outros comandos e conceitos poderão ser aprendidos.
-
-Repositório criado com auxílio do ChatGPT para aprendizado e testes de Git, GitHub e integração com o VS Code.
