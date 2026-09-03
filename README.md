@@ -951,3 +951,5 @@ git merge
 ```
 
 Depois, conforme o projeto evoluir, outros comandos e conceitos poderão ser aprendidos.
+
+Repositório criado com auxílio do ChatGPT para aprendizado e testes de Git, GitHub e integração com o VS Code.
